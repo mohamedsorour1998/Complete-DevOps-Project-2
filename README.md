@@ -39,6 +39,7 @@ The project creates a VPC with the following components:
 Two EC2 instances are created in this project:
 - A bastion host with a public IP address and an associated Security Group for SSH access. This instance is placed in the public subnet.
 - An application host with a private IP address and an associated Security Group for application access. This instance is placed in the private subnet.
+![Screenshot 2023-05-04 014157](https://user-images.githubusercontent.com/110028481/236194929-d90ecc9a-86ee-4d93-963d-a1a3c324766c.png)
 
 ### 3. Database and Cache
 
